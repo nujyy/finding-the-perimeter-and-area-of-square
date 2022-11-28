@@ -2,7 +2,7 @@
 
 int main()
 {
-    int a,c,x; 
+    int a,c,p,x; 
     //a area, p perimeter
     printf("x enter the number from the user:");
     scanf("%d", &x);
